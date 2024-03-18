@@ -1,0 +1,489 @@
+<!DOCTYPE html>
+<html lang="fr-FR">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover" />		<title>Page non trouvée &#8211; Entre Head</title>
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="Entre Head &raquo; Flux" href="https://www.entre-head.com/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Entre Head &raquo; Flux des commentaires" href="https://www.entre-head.com/comments/feed/" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/12.0.0-1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/12.0.0-1\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/www.entre-head.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.4"}};
+			/*! This file is auto-generated */
+			!function(e,a,t){var r,n,o,i,p=a.createElement("canvas"),s=p.getContext&&p.getContext("2d");function c(e,t){var a=String.fromCharCode;s.clearRect(0,0,p.width,p.height),s.fillText(a.apply(this,e),0,0);var r=p.toDataURL();return s.clearRect(0,0,p.width,p.height),s.fillText(a.apply(this,t),0,0),r===p.toDataURL()}function l(e){if(!s||!s.fillText)return!1;switch(s.textBaseline="top",s.font="600 32px Arial",e){case"flag":return!c([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])&&(!c([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!c([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]));case"emoji":return!c([55357,56424,55356,57342,8205,55358,56605,8205,55357,56424,55356,57340],[55357,56424,55356,57342,8203,55358,56605,8203,55357,56424,55356,57340])}return!1}function d(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(i=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},o=0;o<i.length;o++)t.supports[i[o]]=l(i[o]),t.supports.everything=t.supports.everything&&t.supports[i[o]],"flag"!==i[o]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[i[o]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(r=t.source||{}).concatemoji?d(r.concatemoji):r.wpemoji&&r.twemoji&&(d(r.twemoji),d(r.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<link rel="stylesheet" type="text/css" href="https://use.typekit.net/vvi4sxc.css"><style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link rel='stylesheet' id='formidable-css'  href='https://www.entre-head.com/wp-admin/admin-ajax.php?action=frmpro_css&#038;ver=561033' type='text/css' media='all' />
+<link rel='stylesheet' id='entrehead-style-css'  href='https://www.entre-head.com/wp-content/themes/entre-head/style.css?ver=5.4' type='text/css' media='all' />
+<link rel='stylesheet' id='elementor-icons-css'  href='https://www.entre-head.com/wp-content/plugins/elementor/assets/lib/eicons/css/elementor-icons.min.css?ver=5.6.2' type='text/css' media='all' />
+<link rel='stylesheet' id='elementor-animations-css'  href='https://www.entre-head.com/wp-content/plugins/elementor/assets/lib/animations/animations.min.css?ver=2.9.9' type='text/css' media='all' />
+<link rel='stylesheet' id='elementor-frontend-css'  href='https://www.entre-head.com/wp-content/plugins/elementor/assets/css/frontend.min.css?ver=2.9.9' type='text/css' media='all' />
+<link rel='stylesheet' id='elementor-pro-css'  href='https://www.entre-head.com/wp-content/plugins/elementor-pro/assets/css/frontend.min.css?ver=2.9.5' type='text/css' media='all' />
+<link rel='stylesheet' id='jet-smart-filters-css'  href='https://www.entre-head.com/wp-content/plugins/jet-smart-filters/assets/css/public.css?ver=1.7.2' type='text/css' media='all' />
+<link rel='stylesheet' id='jet-engine-frontend-css'  href='https://www.entre-head.com/wp-content/plugins/jet-engine/assets/css/frontend.css?ver=2.0.0' type='text/css' media='all' />
+<link rel='stylesheet' id='premium-pro-css'  href='https://www.entre-head.com/wp-content/plugins/premium-addons-pro/assets/frontend/min-css/premium-addons.min.css?ver=1.9.3' type='text/css' media='all' />
+<link rel='stylesheet' id='elementor-global-css'  href='https://www.entre-head.com/wp-content/uploads/elementor/css/global.css?ver=1590755773' type='text/css' media='all' />
+<link rel='stylesheet' id='elementor-post-42-css'  href='https://www.entre-head.com/wp-content/uploads/elementor/css/post-42.css?ver=1648205849' type='text/css' media='all' />
+<link rel='stylesheet' id='elementor-post-51-css'  href='https://www.entre-head.com/wp-content/uploads/elementor/css/post-51.css?ver=1591689195' type='text/css' media='all' />
+<link rel='stylesheet' id='elementor-post-104-css'  href='https://www.entre-head.com/wp-content/uploads/elementor/css/post-104.css?ver=1648548321' type='text/css' media='all' />
+<link rel='stylesheet' id='google-fonts-1-css'  href='https://fonts.googleapis.com/css?family=Roboto%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CRoboto+Slab%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CFira+Sans%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&#038;ver=5.4' type='text/css' media='all' />
+<link rel='stylesheet' id='elementor-icons-shared-0-css'  href='https://www.entre-head.com/wp-content/plugins/elementor/assets/lib/font-awesome/css/fontawesome.min.css?ver=5.12.0' type='text/css' media='all' />
+<link rel='stylesheet' id='elementor-icons-fa-brands-css'  href='https://www.entre-head.com/wp-content/plugins/elementor/assets/lib/font-awesome/css/brands.min.css?ver=5.12.0' type='text/css' media='all' />
+<link rel='https://api.w.org/' href='https://www.entre-head.com/wp-json/' />
+<meta name="generator" content="WordPress 5.4" />
+<script type="text/javascript">document.documentElement.className += " js";</script>
+<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+<link rel="manifest" href="/site.webmanifest">
+<link rel="mask-icon" href="/safari-pinned-tab.svg" color="#8338ec">
+<meta name="msapplication-TileColor" content="#0f122e">
+<meta name="theme-color" content="#ffffff">
+    </head>
+<body class="error404 elementor-default elementor-kit-7">
+
+		<div data-elementor-type="header" data-elementor-id="51" class="elementor elementor-51 elementor-location-header" data-elementor-settings="[]">
+		<div class="elementor-inner">
+			<div class="elementor-section-wrap">
+						<section class="elementor-element elementor-element-76c66656 elementor-section-stretched elementor-section-full_width elementor-section-height-min-height elementor-section-content-middle elementor-section-height-default elementor-section-items-middle elementor-section elementor-top-section" data-id="76c66656" data-element_type="section" data-settings="{&quot;stretch_section&quot;:&quot;section-stretched&quot;,&quot;sticky&quot;:&quot;top&quot;,&quot;sticky_effects_offset&quot;:80,&quot;sticky_on&quot;:[&quot;desktop&quot;,&quot;tablet&quot;,&quot;mobile&quot;],&quot;sticky_offset&quot;:0}">
+						<div class="elementor-container elementor-column-gap-default">
+				<div class="elementor-row">
+				<div class="elementor-element elementor-element-41d5efbf elementor-column elementor-col-50 elementor-top-column" data-id="41d5efbf" data-element_type="column">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div class="elementor-element elementor-element-20b5fab img-color elementor-widget elementor-widget-image" data-id="20b5fab" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-image">
+											<a href="https://www.entre-head.com">
+							<img width="2789" height="693" src="https://www.entre-head.com/wp-content/uploads/2020/05/Logo-ENTRE-HEAD-color-baseline2.png" class="attachment-full size-full" alt="" srcset="https://www.entre-head.com/wp-content/uploads/2020/05/Logo-ENTRE-HEAD-color-baseline2.png 2789w, https://www.entre-head.com/wp-content/uploads/2020/05/Logo-ENTRE-HEAD-color-baseline2-300x75.png 300w, https://www.entre-head.com/wp-content/uploads/2020/05/Logo-ENTRE-HEAD-color-baseline2-1024x254.png 1024w, https://www.entre-head.com/wp-content/uploads/2020/05/Logo-ENTRE-HEAD-color-baseline2-768x191.png 768w, https://www.entre-head.com/wp-content/uploads/2020/05/Logo-ENTRE-HEAD-color-baseline2-1536x382.png 1536w, https://www.entre-head.com/wp-content/uploads/2020/05/Logo-ENTRE-HEAD-color-baseline2-2048x509.png 2048w" sizes="(max-width: 2789px) 100vw, 2789px" />								</a>
+											</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-10d274da img-white elementor-widget elementor-widget-image" data-id="10d274da" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-image">
+											<a href="https://www.entre-head.com">
+							<img width="2789" height="693" src="https://www.entre-head.com/wp-content/uploads/2020/05/Logo-ENTRE-HEAD-color-baseline2.png" class="attachment-full size-full" alt="" srcset="https://www.entre-head.com/wp-content/uploads/2020/05/Logo-ENTRE-HEAD-color-baseline2.png 2789w, https://www.entre-head.com/wp-content/uploads/2020/05/Logo-ENTRE-HEAD-color-baseline2-300x75.png 300w, https://www.entre-head.com/wp-content/uploads/2020/05/Logo-ENTRE-HEAD-color-baseline2-1024x254.png 1024w, https://www.entre-head.com/wp-content/uploads/2020/05/Logo-ENTRE-HEAD-color-baseline2-768x191.png 768w, https://www.entre-head.com/wp-content/uploads/2020/05/Logo-ENTRE-HEAD-color-baseline2-1536x382.png 1536w, https://www.entre-head.com/wp-content/uploads/2020/05/Logo-ENTRE-HEAD-color-baseline2-2048x509.png 2048w" sizes="(max-width: 2789px) 100vw, 2789px" />								</a>
+											</div>
+				</div>
+				</div>
+						</div>
+			</div>
+		</div>
+				<div class="elementor-element elementor-element-79e7044d elementor-column elementor-col-50 elementor-top-column" data-id="79e7044d" data-element_type="column">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div class="elementor-element elementor-element-d7fb8c2 elementor-widget__width-auto img-color elementor-widget elementor-widget-image" data-id="d7fb8c2" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-image">
+											<a href="%23elementor-action%3Aaction%3Dpopup%3Aopen%26settings%3DeyJpZCI6IjQyIiwidG9nZ2xlIjpmYWxzZX0%3D">
+							<img src="https://www.entre-head.com/wp-content/uploads/2020/04/burger-dark.svg" class="attachment-full size-full" alt="" />								</a>
+											</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-2eeca4d4 elementor-widget__width-auto img-white elementor-widget elementor-widget-image" data-id="2eeca4d4" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-image">
+											<a href="%23elementor-action%3Aaction%3Dpopup%3Aopen%26settings%3DeyJpZCI6IjQyIiwidG9nZ2xlIjpmYWxzZX0%3D">
+							<img src="https://www.entre-head.com/wp-content/uploads/2020/04/burger-dark.svg" class="attachment-full size-full" alt="" />								</a>
+											</div>
+				</div>
+				</div>
+						</div>
+			</div>
+		</div>
+						</div>
+			</div>
+		</section>
+					</div>
+		</div>
+		</div>
+			<div id="primary" class="content-area">
+		<main id="main" class="site-main" role="main">
+
+		
+			<p><img class="alignnone size-medium wp-image-945" src="https://www.entre-head.com/wp-content/uploads/2023/03/antonelli-stéphane-300x200.jpeg" alt="" width="300" height="200" srcset="https://www.entre-head.com/wp-content/uploads/2023/03/antonelli-stéphane-300x200.jpeg 300w, https://www.entre-head.com/wp-content/uploads/2023/03/antonelli-stéphane-1024x683.jpeg 1024w, https://www.entre-head.com/wp-content/uploads/2023/03/antonelli-stéphane-768x512.jpeg 768w, https://www.entre-head.com/wp-content/uploads/2023/03/antonelli-stéphane-1536x1024.jpeg 1536w, https://www.entre-head.com/wp-content/uploads/2023/03/antonelli-stéphane-2048x1365.jpeg 2048w" sizes="(max-width: 300px) 100vw, 300px" /></p>
+<p>&nbsp;</p>
+<h3>Stéphane Antonelli devient membre Entre Head pour tendre la main à ceux qui en ont besoin. Il explique pourquoi.</h3>
+<p>Bien que je sois déjà très occupé, rejoindre l’association Entre Head en tant que Membre, a été pour moi une évidence, à la fois au travers mon parcours à la Jeune Chambre Economique de NICE COTE d’AZUR, mais surtout deux déclencheurs que sont Laurent TISSINIE et Yvan REMOND.</p>
+<p>D’abord Laurent TISSINIE pour sa personne, ses valeurs et bien d’autres choses qu’il incarne.</p>
+<p>Et puis et surtout Yvan REMOND pour sa disparition il y a bientôt un an qui m’a profondément touché. Le ressenti d’une culpabilité de n’avoir pas fait assez pour lui, de n’avoir pas su alerter les bonnes personnes au bon moment, ou de n’avoir pas réussi à le rassurer afin qu’il ne commette pas l’irréparable.</p>
+<p><strong>« Plus Jamais ça »,</strong> l’association Entre Head, et tous ces bénévoles qui ne seront de plus en plus nombreux sont là pour que ces situations ne se reproduisent plus.</p>
+<p>Que nous devenions tous des sentinelles et que nous tendions la main à ceux qui en ont besoin quand ils en ont besoin.</p>
+<p>Quant aux réunions mensuelles autour d’un café : c’est une idée très originale, sympathique et hors du temps, un moment de coupure avec un élan de solidarité, de rencontres basées sur une écoute active et bienveillante de tous les participants, de conseils sans contrepartie et en toute confidentialité.</p>
+<p>&nbsp;</p>
+<p><b>Besoin d’aide ? Envie d’aider ? </b></p>
+<p><b>Envie d&rsquo;être partenaire ? Vous aussi, rejoignez notre communauté sans plus tarder  !</b></p>
+<p><a href="https://www.entre-head.com/contact/">Prenons contact</a></p>
+<h2><img class="alignnone size-medium wp-image-933" src="https://www.entre-head.com/wp-content/uploads/2022/07/etesse-jean-francois-300x205.jpg" alt="" width="300" height="205" srcset="https://www.entre-head.com/wp-content/uploads/2022/07/etesse-jean-francois-300x205.jpg 300w, https://www.entre-head.com/wp-content/uploads/2022/07/etesse-jean-francois-1024x701.jpg 1024w, https://www.entre-head.com/wp-content/uploads/2022/07/etesse-jean-francois-768x526.jpg 768w, https://www.entre-head.com/wp-content/uploads/2022/07/etesse-jean-francois-1536x1052.jpg 1536w, https://www.entre-head.com/wp-content/uploads/2022/07/etesse-jean-francois.jpg 1701w" sizes="(max-width: 300px) 100vw, 300px" /></h2>
+<h3></h3>
+<h3>Jean-François Etesse est Vice-Président du Tribunal de Commerce d’Antibes. Il explique pourquoi il a souhaité que celui-ci devienne partenaire de l&rsquo;association.</h3>
+<p><strong>Dans l’exercice de nos fonctions, nous  juges du Tribunal de Commerce sommes régulièrement confrontés à des dirigeants en situations difficiles et parfois désespérées.</strong> Notamment dans le cadre des procédures collectives que nous sommes amenés à encadrer. Nous sommes évidemment particulièrement sensibles à la détresse de nos pairs- nous sommes nous-mêmes chefs d&rsquo;entreprise &#8211; et nous menons au sein du tribunal des actions de prévention, qui se sont amplifiées ces dernières années. Nous travaillons notamment à informer les chefs d’entreprise sur les « outils » juridiques peu connus et encore trop peu utilisés mais qui pourtant sont efficaces et contribuent à limiter les risques de faillites d’entreprises.</p>
+<p><strong>Pour venir en aide aux dirigeants fragilisés par une liquidation judiciaire,</strong> un partenariat a d&rsquo;abord été initié avec <a href="https://www.apesa-france.com/">APESA</a> et le tribunal a joué son rôle en adressant à cette association un certain nombre de dirigeants qui ont pu être efficacement pris en charge. Mais il manquait dans ce schéma une étape cruciale de prévention : celle qui consistait à apporter une aide structurée à un dirigeant identifié comme fragilisé, isolé, perdu dans sa problématique. Mais sans qu’il soit encore au stade d’une détresse psychologique nécessitant une prise en charge par l’APESA. Ce dirigeant dont nous pouvons détecter la détresse en chambre du conseil ou lors de nos réunions de prévention pourra désormais être adressé à Entre Head, qui propose une prise en charge totalement adaptée et qui a fait ses preuves.</p>
+<p><strong>En tant que juge au Tribunal d’Antibes depuis treize ans</strong> et témoin &#8211; en tant que membre &#8211; de la première heure d’entre Head, j&rsquo;ai pu juger de l’efficacité de l’accompagnement prodigué par l&rsquo;association. C’est la raison pour laquelle la signature d’un partenariat avec le Tribunal de Commerce d’Antibes représente pour moi, au-delà d’une évidence, l’opportunité de la mise en place d’un bel outil complétant notre arsenal de prévention au sein du tribunal. D&rsquo;ailleurs, l&rsquo;APESA et Entre Head collaborent désormais depuis 2022, l&rsquo;APESA venant de rejoindre le <a href="https://www.prevention-entreprise.com/">portail de la prévention des entreprises</a> créé il y a un an par Entre Head avec le CIP06 et le GPA 06. C’est donc avec plaisir et conviction que j’ai contribué à ce rapprochement, il nous revient à présent la charge à tous d’œuvrer pour faire vivre ce partenariat de la plus belle des manières !</p>
+<p>&nbsp;</p>
+<p><b>Besoin d’aide ? Envie d’aider ? </b></p>
+<p><b>Envie d&rsquo;être partenaire? Vous aussi, rejoignez notre communauté sans plus tarder  !</b></p>
+<p><a href="https://www.entre-head.com/contact/">Prenons contact</a></p>
+<h2><img class="alignnone wp-image-924" src="https://www.entre-head.com/wp-content/uploads/2022/07/transport-manager-300x238-1.jpg" alt="" width="368" height="292" /></h2>
+<h3></h3>
+<h3>Xavier est dirigeant d&rsquo;une entreprise spécialisée dans les applications logicielles dédiées au transport, qu&rsquo;il a créée il y a une vingtaine d&rsquo;années. Il y a quelques semaines, il a lui aussi fait appel à Entre Head pour affronter des difficultés. Retour d&rsquo;expérience à « J+30 » de son accompagnement.</h3>
+<p style="font-weight: 400;"><strong>Ce que j&rsquo;ai le plus apprécié dans l&rsquo;approche d&rsquo;Entre Head ?</strong> L’écoute sans jugement et sans parti pris. Cette bienveillance a permis de dégager des points positifs auxquels j&rsquo;ai pu m’accrocher pour trouver des solutions. Avant la réunion avec l&rsquo;équipe qui a été formée spécialement pour m&rsquo;accompagner, j&rsquo;avais l’impression d’être seul et dans une impasse, même si le plus dur était déjà derrière.</p>
+<p><strong>Si cela été utile? Oui.</strong> Le soutien de l&rsquo;association a été déterminant. Je me sentait attaqué de toutes parts et très seul. La discussion qui a permis de mettre en place des solutions m&rsquo;a permis de rebondir plus vite et de sortir de cette spirale d&rsquo;isolement.</p>
+<p><strong>Qu’est-ce qui m&rsquo;a permis de me sentir en confiance pour accepter cette aide ?</strong> J&rsquo;ai tout simplement trouvé Entre Head via sa page sur LinkedIn, où ses objectifs sont affichés. Le message était suffisamment clair pour se sentir en confiance. Et puis les premiers échanges avec le premier interlocuteur de l&rsquo;association, Laurent, ont continué de me mettre à l’aise.  Ensuite, le relais progressif de mon accompagnement entre Laurent et Frédéric &#8211; qui a été mon interlocuteur de proximité &#8211; ainsi que l&rsquo;ensemble de l&rsquo;équipe formée pour moi, a été souple et efficace. En fait, je crois que le « premier pas » est le plus dur à faire, pour les dirigeants en isolement. Je dois dire qu&rsquo;à l’époque, chaque coup de fil était un problème à gérer, pour moi. La disponibilité et la pro-activité sont aussi deux marqueurs que j&rsquo;ai vraiment appréciés dans la « méthode » Entre Head. L&rsquo;écoute, la compréhension et l&rsquo;appui de l&rsquo;association ont été la branche à laquelle j&rsquo;ai pu me raccrocher.</p>
+<p>&nbsp;</p>
+<p><b>Besoin d’aide ? Envie d’aider ? Vous aussi, rejoignez notre communauté sans plus tarder  !</b></p>
+<p><a href="https://www.entre-head.com/contact/">Prenons contact</a></p>
+<h2></h2>
+<h3><img class="alignnone wp-image-917" src="https://www.entre-head.com/wp-content/uploads/2022/06/resto-300x200.png" alt="" width="456" height="304" srcset="https://www.entre-head.com/wp-content/uploads/2022/06/resto-300x200.png 300w, https://www.entre-head.com/wp-content/uploads/2022/06/resto-768x512.png 768w, https://www.entre-head.com/wp-content/uploads/2022/06/resto.png 862w" sizes="(max-width: 456px) 100vw, 456px" /></h3>
+<h3>La soixantaine, restaurateur expérimenté, passionné par son métier&#8230; Dov a un profil solide et rien ne le prédestinait à la « sortie de piste ». Pourtant, lui aussi a du faire face à de réelles difficultés, sans pouvoir vraiment en parler autour de lui. Bien qu&rsquo;Entre Head préserve scrupuleusement la confidentialité sur les chef.fe.s d&rsquo;entreprise accompagné.e.s, Dov a tenu à témoigner.</h3>
+<p><strong>Depuis mon accompagnement par Entre Head en septembre dernier, je vais très bien. J&rsquo;insiste sur le « très ».</strong> 9 mois après « l&rsquo;accident », je me découvre et des choses essentielles ont changé en moi. En sortant de la continuité de la vie, de son rythme, je vis un retour à l&rsquo;essentiel. Je suis très heureux de vivre avec peu, je suis bien avec moi-même, de plus en plus. Et c&rsquo;est nouveau ! Je souhaite développer mon côté joyeux, curieux, croyant&#8230; D&rsquo;ailleurs, je vais réaliser un projet rêvé à 16 ans, une promesse que je m&rsquo;étais faite pour la deuxième partie de ma vie.</p>
+<p><strong>Le groupe* qui m&rsquo;a accompagné m&rsquo;avait apporté des recommandation.  Ce que j&rsquo;ai mis en application ? La remise en question :</strong> ce qui va directement avec l&rsquo;acceptation. La bienveillance très humaine du groupe qui m&rsquo;a entouré y est pour beaucoup.  Dès la première minute : même si personne n&rsquo;avait encore dit un seul mot, déjà il y avait des gens autour de la table à 8h30, pour moi ! ça m&rsquo;a réconforté et je dois le dire, réconcilié avec l&rsquo;être humain&#8230; Après tout ça, j&rsquo;ai la certitude qu&rsquo;il n&rsquo;y a aucun hasard, tout arrive pour une bonne raison. Il faut passer outre l&rsquo;évidence. Ne faut jamais lâcher, baisser les bras. Il y a toujours autre chose, une alternative. La force de la vie est plus puissante que tout !</p>
+<p><strong>Cet accompagnement a t-il été suffisant? Non&#8230; le mot « suffisant » est pauvre pour quelque chose d&rsquo;aussi puissant !</strong> Le premier rendez-vous est celui qui a le plus gros impact. Ensuite, tout dépendait de moi. La révolution ne se fait pas en un jour, mais elle démarre au jour 1. C&rsquo;est mon cas. C&rsquo;est pourquoi je veu dire un « merci +++ » à Laurent Tissinié qui a eu l&rsquo;idée d&rsquo;Entre Head. Et à tous ceux qui ont suivi avec le cœur. Ce que m&rsquo;a apporté Vanessa Vauth, qui faisait partie du groupe formé pour m&rsquo;aider, va au-delà : des mots sur des maux. J&rsquo;aurais pu traverser cette période sans cela, mais je me serais sans doute mal axé&#8230;</p>
+<p><strong>Et ma recommandation, à moi?</strong> Je vous ai trouvés par un concours de circonstances. Alors il faudrait faire connaître et diffuser encore plus votre action. Entre Head doit être reconnue encore plus, à une plus grande échelle. Car aider les chefs d&rsquo;entreprise c&rsquo;est aider la société tout entière.</p>
+<p><strong>Si je vais moi aussi rejoindre Entre Head, désormais?</strong> Oui, évidemment. Je ne peux pas ne pas être dans l&rsquo;action !</p>
+<p><em>*plusieurs membres actifs d&rsquo;Entre Head ont été volontaires pour mener cet accompagnement  : les chef.fe.s d&rsquo;entreprise Marie-Christine Olivero, Isabelle Tabone, Franck Guyonnet, la spécialiste de l&rsquo;accompagnement Vanessa Vauth et l&rsquo;expert de la restauration Christophe Mansi.</em></p>
+<p>&nbsp;</p>
+<p><b>Besoin d’aide ? Envie d’aider ? Vous aussi, rejoignez notre communauté sans plus tarder  !</b></p>
+<p><a href="https://www.entre-head.com/contact/">Prenons contact</a></p>
+<p><img class="alignnone wp-image-909" src="https://www.entre-head.com/wp-content/uploads/2022/06/1652247961944-300x225.jpg" alt="" width="543" height="407" srcset="https://www.entre-head.com/wp-content/uploads/2022/06/1652247961944-300x225.jpg 300w, https://www.entre-head.com/wp-content/uploads/2022/06/1652247961944-1024x768.jpg 1024w, https://www.entre-head.com/wp-content/uploads/2022/06/1652247961944-768x576.jpg 768w, https://www.entre-head.com/wp-content/uploads/2022/06/1652247961944.jpg 1478w" sizes="(max-width: 543px) 100vw, 543px" /></p>
+<p><strong>2022 est une année plus que jamais sous le signe du partenariat pour l&rsquo;association.</strong> Grace à l&rsquo;action menée par Sabrina Chibane, membre en charge des partenariats et Christian Proud-Diaz, secrétaire général, le cercle vertueux formé autour d&rsquo;Entre Head s&rsquo;est considérablement élargi au cours des dernières semaines.</p>
+<p>Pour être toujours plus efficace dans l&rsquo;aide apportée aux dirigeant.e.s d&rsquo;entreprise faisant face à des difficultés, une convention a tout d&rsquo;abord été signée avec Jean-Pierre Savarino, le président de la <a href="https://www.cote-azur.cci.fr/">Chambre de Commerce et d&rsquo;Industrie Nice Côte d&rsquo;Azur</a> (photo ci-dessus), puis avec le <a href="https://www.greffe-tc-nice.fr/">Tribunal de Commerce de Nice</a>, présidé par Pascal Nougarède.</p>
+<p>Le 30 mai dernier, c&rsquo;était avec Valérie Courteaux, présidente du <a href="https://www.cga06.org/">Centre de Gestion Multiprofessions des Alpes-Maritimes</a> (CGM06, ex-CGA) qu&rsquo;un nouvel accord de coopération était conclu. quelques jours après, c&rsquo;était au tour de la <a href="https://www.cliniquejuridique-nice.fr/">Clinique Juridique Nice Côte d&rsquo;Azur</a> de rejoindre le cercle des partenaires, représentée par sa présidente, Mélanie Sciacca. Enfin, un accord a également été signé avec le <a href="http://www.rotary-club-nice-rca.fr/">Rotary Club Nice Riviera Côte d&rsquo;Azur</a>, présidé par Christophe Meigner-Roulleau.</p>
+<p>Il se dit que le stylo de Laurent Tissinié, le président d&rsquo;Entre Head n&rsquo;a pas fini de chauffer&#8230; De nouvelles conventions pourraient être signées prochainement !</p>
+<p>&nbsp;</p>
+<h2>« Avec Entre Head, l&rsquo;expérience humaine prime sur le reste »</h2>
+<h3><img class="alignnone size-medium wp-image-906" src="https://www.entre-head.com/wp-content/uploads/2022/06/JULIEN-VERANI-300x198.jpg" alt="" width="300" height="198" srcset="https://www.entre-head.com/wp-content/uploads/2022/06/JULIEN-VERANI-300x198.jpg 300w, https://www.entre-head.com/wp-content/uploads/2022/06/JULIEN-VERANI.jpg 452w" sizes="(max-width: 300px) 100vw, 300px" /></h3>
+<h3>Julien Verani, cofondateur de la Clinique Juridique a lui aussi rejoint Entre Head afin d&rsquo;aider les dirigeant•es découragé•es. Il explique pourquoi.</h3>
+<p><strong>C’est avec enthousiasme et passion que j&rsquo;ai rejoint Entre Head comme aidant-bénévole.</strong> J’ai</p>
+<p><strong>Nelson Mandela disait qu&rsquo; « <em>Il ne peut y avoir de plus grand don que celui de donner son temps et son énergie pour aider les autres sans rien attendre en retour</em>« </strong>. Cette phrase résonnait déjà en moi, en 2015, quand j&rsquo;ai accepté mon premier engagement associatif à l&rsquo;âge de 19 ans, pour aider les chefs d&rsquo;entreprise en situation de<em> burn out</em>. Depuis lors, mon souhait d&rsquo;aider les autres à tirer le meilleur d&rsquo;eux-mêmes n&rsquo;a cessé de croître.</p>
+<p><strong>Avec Entre Head, j&rsquo;ai découvert un univers philanthropique en plein développement, mais surtout un lieu où l&rsquo;expérience humaine prime de loin toute considération liée à l&rsquo;expertise purement professionnelle. </strong>Entre Head promeut l&rsquo;écoute à la parole de ses membres, par un axe d&rsquo;approche et d&rsquo;assistance adapté avec souplesse aux besoins allégués. C&rsquo;est ce qui est formidable, car avant chaque rendez-vous, on ne sait donc pas quel type d&rsquo;accompagnement sera le plus adapté à chacun, et seule la perception de l&rsquo;autre permettra alors d&rsquo;y répondre. Ainsi, outre l&rsquo;apport de solutions préconcevables que nous serions tentés de suggérer, l&rsquo;objectif principal et liminaire sera d&rsquo;entendre les autres afin de permettre à des personnes, souvent esseulées, de libérer leur parole et leurs émotions, à proportion de leur désir et de leur besoin. Mais cette séance d&rsquo;aide de groupe va encore plus loin et a pour particularité, une fois la réunion achevée, d&rsquo;être suivie d&rsquo;un accompagnement personnalisé sous l&rsquo;égide d&rsquo;un parrain désigné, parmi les membres de l&rsquo;association, par la personne aidée.</p>
+<p><strong>Il appartient donc aux membres d&rsquo;Entre Head de faire preuve d&rsquo;adaptation vis-à-vis de celui qui sollicite leur aide, et non l&rsquo;inverse.</strong> En soit, j&rsquo;ai pu constater qu&rsquo;en aidant Fabien, lors de ma dernière participation à une réunion de groupe, cela revenait à consacrer un temps certain afin de pouvoir au mieux cerner les besoins et les problématiques exposées par ce dernier, et donc de réunir une énergie supplémentaire compte tenu de l&rsquo;adaptation nécessitée par un tel <em>modus operandi</em>. Mais comme le disait Mandela, il n&rsquo;y a pas là de plus beau don, lorsque l&rsquo;on n&rsquo;attend rien en retour, que de fournir un tel effort, car plus celui-ci sera notable, plus l&rsquo;aide apportée sera efficace, et plus le retour sur soi sera alors puissant.</p>
+<p>&nbsp;</p>
+<p><b>Besoin d’aide ? Envie d’aider ? Vous aussi, rejoignez notre communauté sans plus tarder  !</b></p>
+<p><a href="https://www.entre-head.com/contact/">Prenons contact</a></p>
+<p style="text-align: center;">Rencontre avec l&rsquo;un des « Entre Headants » de l&rsquo;association</p>
+<p>&nbsp;</p>
+<hr />
+<p>&nbsp;</p>
+<h2>« Être utile au sein de la communauté Entre Head est une fierté »</h2>
+<h3><img class="alignnone size-medium wp-image-899" src="https://www.entre-head.com/wp-content/uploads/2022/05/Christophe-MAUBOUSSIN_ENTRE-HEAD-300x282.jpg" alt="" width="300" height="282" srcset="https://www.entre-head.com/wp-content/uploads/2022/05/Christophe-MAUBOUSSIN_ENTRE-HEAD-300x282.jpg 300w, https://www.entre-head.com/wp-content/uploads/2022/05/Christophe-MAUBOUSSIN_ENTRE-HEAD-768x721.jpg 768w, https://www.entre-head.com/wp-content/uploads/2022/05/Christophe-MAUBOUSSIN_ENTRE-HEAD.jpg 775w" sizes="(max-width: 300px) 100vw, 300px" /></h3>
+<h3>Christophe Mauboussin, dirigeant de ValueAction a rejoint Entre Head pour aider les dirigeant•es découragé•es. Il explique pourquoi.</h3>
+<p><strong>C’est avec enthousiasme et passion que j&rsquo;ai rejoint Entre Head comme aidant-bénévole.</strong> J’ai choisi de partager la raison d’être de l’association et ainsi de venir personnellement en aide aux Chefs d’entreprise dans les problèmes et les difficultés. Mon parcours, mes épreuves et mes expériences d’homme, de dirigeant et d’entrepreneur me portent à considérer que tout le soutien et l’aide apportés à un.e entrepreneur.e est une aide communautaire, un combat d’intérêt général.</p>
+<p><strong>J’ai le plaisir d’avoir été choisi comme référent et d’accompagner un chef d’entreprise</strong> des Yvelines (78), qui a fait appel à Entre Head. Comme lui et de nombreux dirigeants d’entreprise, j’ai fait face à l’épuisement, au découragement, à la solitude. J’ai traversé des turbulences et des périodes de doutes, j’ai rencontré les problématiques de développement, de gestion de la croissance au coeur du fameux « tunnel de la mort » (période des 2 à 5 ans d’existence de l’entreprise) et je sais qu’entreprendre est un état d’esprit. Avec tout mon engagement, je suis heureux d’apporter mon soutien inconditionnel et désintéressé, d’offrir mon écoute et de partager mon expérience. Permettre de rompre avec l’isolement et, sans jugement, partager ma vision sur les situations rencontrées, identifier les signaux faibles, sans excès d’optimisme mais avec lucidité.</p>
+<p><strong>Pour moi, l’entrepreneur.e ou le/la dirigeant.e est avant tout une Femme ou un Homme</strong> et je considère l’Être, l’Humain dans son intégralité et dans toutes ses dimensions. Alors je remercie la communauté Entre Head de me rendre fier d’être utile, devenir un des nombreux maillons sur la chaîne de l’entraide qui se consolide.</p>
+<p>&nbsp;</p>
+<p><b>Besoin d’aide ? Envie d’aider ? Vous aussi, rejoignez notre communauté sans plus tarder  !</b></p>
+<p><a href="https://www.entre-head.com/contact/">Prenons contact</a></p>
+<p style="text-align: center;">Nathalie &#8211; dirigeante dans la fabrication de matériaux &#8211; que nous avons aidée, vient de nous rejoindre pour aider à son tour.</p>
+<p>&nbsp;</p>
+<hr />
+<p>&nbsp;</p>
+<h2>C&rsquo;est un témoignage dans lequel se reconnaitrons certainement beaucoup de dirigeant.e.s d&rsquo;entreprise&#8230;</h2>
+<p><img class="alignnone size-medium wp-image-883" src="https://www.entre-head.com/wp-content/uploads/2022/04/1649137367743-300x267.jpg" alt="" width="300" height="267" srcset="https://www.entre-head.com/wp-content/uploads/2022/04/1649137367743-300x267.jpg 300w, https://www.entre-head.com/wp-content/uploads/2022/04/1649137367743-768x684.jpg 768w, https://www.entre-head.com/wp-content/uploads/2022/04/1649137367743.jpg 828w" sizes="(max-width: 300px) 100vw, 300px" /></p>
+<p>« J’ai rencontré Entre Head lors d’une conférence au salon des Entreprenariales à Nice. Je traversais à ce moment là une période difficile sur un plan émotionnel et professionnel, étant confrontée à un bras de fer avec mon principal fournisseur avec lequel j’avais investi pendant 10 ans et une somme importante d’argent, pour me trouver dans une impasse avec un chantage et des nouvelles conditions inacceptables qui bloquaient mes commandes et mon activité ainsi que des engagements non respectés.</p>
+<p>Ce sont des périodes en tant qu’entrepreneur où l’on se sent bien seul et en proie à des remises en question profondes sur le bien fondé de son activité et plus généralement du sens que l’on veut donner à sa vie après une vingtaine d’années d’entrepreneur jalonnée de bien des obstacles, investissement personnel et financier.</p>
+<p>Entre Head tombait à point nommé ; leur approche correspondait exactement à ce dont j’avais besoin, une écoute, une analyse de la situation avec leur expérience d’entrepreneurs, leur vécu de l’échec ou de périodes difficiles.</p>
+<p>Après avoir rempli un premier formulaire pour exprimer mes attentes en terme d’aide et décrire ma situation, ils m’ont rapidement proposé un rdv dans une salle d’un café à Nice, ils m’ont consacré 2h à 6 pour m’écouter, analyser la situation décrite et me conseiller en me donnant des pistes de réflexion et des solutions possibles.</p>
+<p>Je suis ressortie complétement boostée alors que je me trouvais depuis 3 semaines dans une impasse, avec des commandes bloquées et une vision noire du futur de mon activité dans laquelle j’avais investi 10 années. Avec beaucoup de bienveillance, professionnalisme, retour d’expérience, ils ont réussi à m’ouvrir sur un nouveau champ des possibles, une réorientation, me couper de l’isolement et une vision extérieure très réconfortante.</p>
+<p>Du coup j’ai suivi leur conseil : faire un petit break et réorienter mon activité et redonner du sens à ma vie personnelle. J’ai débloqué ponctuellement la situation en acceptant le chantage, pris des conseils juridiques et partie en quête de nouvelles solutions auprès d’autres fournisseurs dans l’attente d’une solution à moyen terme.</p>
+<p>Je ne peux que recommander Entre Head pour tous les entrepreneurs confrontés à des périodes difficiles qui affectent le dirigeant sur un plan financier et émotionnel. C’est important de sortir de son isolement, d’être à même d’exprimer et demander de l’aide à des personnes qui ont vécu des périodes similaires. Du coup je me suis proposée en tant qu’aidante à mon tour ».</p>
+<p>&nbsp;</p>
+<p><b>Besoin d’aide ? Envie d’aider ? Vous aussi, rejoignez notre communauté sans plus tarder  !</b></p>
+<p><a href="https://www.entre-head.com/contact/">Prenons contact</a></p>
+<p style="text-align: center;">Save the date ! Le 12 mai, Entre Head et ses aprtenaires vous proposent d&rsquo;assister à une table ronde passionnante&#8230;</p>
+<p>&nbsp;</p>
+<hr />
+<p>&nbsp;</p>
+<h2>Quand on dirige une entreprise, il faut parfois affronter le gros temps et passer le « Horn »&#8230; Pas si simple.</h2>
+<h3><img class="alignnone size-medium wp-image-894" src="https://www.entre-head.com/wp-content/uploads/2022/04/VISUEL-INVITATION-300x200.jpg" alt="" width="300" height="200" srcset="https://www.entre-head.com/wp-content/uploads/2022/04/VISUEL-INVITATION-300x200.jpg 300w, https://www.entre-head.com/wp-content/uploads/2022/04/VISUEL-INVITATION-1024x683.jpg 1024w, https://www.entre-head.com/wp-content/uploads/2022/04/VISUEL-INVITATION-768x512.jpg 768w, https://www.entre-head.com/wp-content/uploads/2022/04/VISUEL-INVITATION.jpg 1200w" sizes="(max-width: 300px) 100vw, 300px" /></h3>
+<h3>C&rsquo;est pour évoquer le sujet et les solutions disponibles que Entre Head et ses partenaires organisent une table ronde dans la salle de conférences de l&rsquo;hôtelAston à Nice, le 12 mai à 18h30.</h3>
+<p><strong> </strong></p>
+<p><strong>Cette table ronde sera animée par Bruno Valentin, </strong>Dirigeant de l’agence de communication Pole Company. A ses côtés interviendront <strong>François Briot, </strong>Médiateur professionnel, <strong>Ilan Niddam</strong>, Membre élu d ela CCI Nice Côte d&rsquo;Azur et délégué APESA pour le 06, <strong>Nathalie Thomas, </strong>Administrateur judiciaire, <strong>Jean-François Etesse, </strong>Juge-Commissaire au Tribunal de Commerce d’Antibes, <strong>Frédéric Guirauden, </strong>Directeur régional de la Banque Delubac &amp; Cie, ainsi que <strong>Laurent Tissinié </strong>Président de l&rsquo;association Entre Head et <strong>Charlotte Lafeuillade, </strong>Dirigeante aidée par Entre Head, qui depuis a rejoint l&rsquo;association pour aider à son tour ses pairs faisant face à leur « Cap Horn »&#8230;</p>
+<p>La table ronde sera suivie d&rsquo;un cocktail offert par la banque Delubac &amp; Cie, partenaire de l&rsquo;événement.</p>
+<p><strong><a href="https://www.google.com/maps/place/H%C3%B4tel+Aston+La+Scala+Nice/@43.698039,7.2722045,15z/data=!4m18!1m9!3m8!1s0x0:0x6deb0a3f5809ae66!2sH%C3%B4tel+Aston+La+Scala+Nice!5m2!4m1!1i2!8m2!3d43.6980431!4d7.2722026!3m7!1s0x0:0x6deb0a3f5809ae66!5m2!4m1!1i2!8m2!3d43.6980431!4d7.2722026">plan d’accès</a></strong></p>
+<p>parking conseillé à proximité : Masséna ou Corvesy</p>
+<p>Merci de confirmer dès à présent votre présence par retour de mail à <strong><a href="/cdn-cgi/l/email-protection#e1828e8f95808295a1848f959384cc89848085cf828e8c"><span class="__cf_email__" data-cfemail="1b7874756f7a786f5b7e756f697e36737e7a7f35787476">[email&#160;protected]</span></a></strong></p>
+<p>&nbsp;</p>
+<p><b>Besoin d’aide ? Envie d’aider ? Vous aussi, rejoignez notre communauté sans plus tarder  !</b></p>
+<p><a href="https://www.entre-head.com/contact/">Prenons contact</a></p>
+<p style="text-align: center;">Avec l&rsquo;UPE 06, Entre Head vous propose d&rsquo;assister à un atelier zoom le 15 avril</p>
+<p>&nbsp;</p>
+<hr />
+<p>&nbsp;</p>
+<h2>Besoin d&rsquo;aide? envie d&rsquo;aider? voici comment faire&#8230;</h2>
+<h3><img class="alignnone size-medium wp-image-870" src="https://www.entre-head.com/wp-content/uploads/2022/04/zoom-300x200.jpg" alt="" width="300" height="200" srcset="https://www.entre-head.com/wp-content/uploads/2022/04/zoom-300x200.jpg 300w, https://www.entre-head.com/wp-content/uploads/2022/04/zoom-1024x683.jpg 1024w, https://www.entre-head.com/wp-content/uploads/2022/04/zoom-768x512.jpg 768w, https://www.entre-head.com/wp-content/uploads/2022/04/zoom.jpg 1500w" sizes="(max-width: 300px) 100vw, 300px" /></h3>
+<h3>Quand on est chef.fe d&rsquo;entreprise, on a le droit d&rsquo;avoir besoin d&rsquo;aide. On peut aussi avoir envie d&rsquo;aider ses pairs.</h3>
+<p>Dans le cadre de leur partenariat, l&rsquo;<a href="https://www.upe06.com/">UPE 06</a> et Entre Head proposent un atelier via la plateforme Zoom : un rendez-vous à ne pas manquer, le vendredi 15 avril de 14h30 à 16h00. Au programme, une présentation d’Entre Head par deux de nos administrateurs : <a href="https://www.linkedin.com/in/ACoAAACi_2cBbHFMaQOY8k3Qh6u2mbaQ-rgtA4Y" data-attribute-index="0" data-entity-hovercard-id="urn:li:fs_miniProfile:ACoAAACi_2cBbHFMaQOY8k3Qh6u2mbaQ-rgtA4Y" data-entity-type="MINI_PROFILE">Bruno Pourcines</a> et <a tabindex="-1" href="https://www.linkedin.com/in/ACoAAAa54tYBGS8i7abtP4z-CZ-5Tdqmvv26r30" data-attribute-index="2" data-entity-hovercard-id="urn:li:fs_miniProfile:ACoAAAa54tYBGS8i7abtP4z-CZ-5Tdqmvv26r30" data-entity-type="MINI_PROFILE" aria-expanded="false" aria-controls="undefined">Sabrina Chibane</a> qui exposeront également des solutions concrètes pour éviter l&rsquo;isolement des dirigeant.es.</p>
+<p>Pour vous inscrire dès maintenant, <a href="https://cloud7.eudonet.com/APP/frm?lbl=ateliers-upe06-visio-conference&amp;tok=AB52BAC3&amp;cs=iTldE83tATYIHHc0J2LB9fFSweCQGYK_&amp;p=KEq9JKSPWamC33gd9nzfvpy1Euw-UOuEVDiOWb0a3nI%3d">c&rsquo;est ici que ça se passe</a>. Le lien de connexion vous sera envoyé par mail, quelques heures avant le début de l&rsquo;atelier.</p>
+<p>&nbsp;</p>
+<p><b>Besoin d’aide ? Envie d’aider ? Vous aussi, rejoignez notre communauté sans plus tarder  !</b></p>
+<p><a href="https://www.entre-head.com/contact/">Prenons contact</a></p>
+
+		</main><!-- .site-main -->
+	</div><!-- .content-area -->
+
+		<div data-elementor-type="footer" data-elementor-id="104" class="elementor elementor-104 elementor-location-footer" data-elementor-settings="[]">
+		<div class="elementor-inner">
+			<div class="elementor-section-wrap">
+						<section class="elementor-element elementor-element-f281319 elementor-section-content-middle elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-top-section" data-id="f281319" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;,&quot;shape_divider_top&quot;:&quot;waves&quot;}">
+					<div class="elementor-shape elementor-shape-top" data-negative="false">
+			<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 100" preserveAspectRatio="none">
+	<path class="elementor-shape-fill" d="M421.9,6.5c22.6-2.5,51.5,0.4,75.5,5.3c23.6,4.9,70.9,23.5,100.5,35.7c75.8,32.2,133.7,44.5,192.6,49.7
+	c23.6,2.1,48.7,3.5,103.4-2.5c54.7-6,106.2-25.6,106.2-25.6V0H0v30.3c0,0,72,32.6,158.4,30.5c39.2-0.7,92.8-6.7,134-22.4
+	c21.2-8.1,52.2-18.2,79.7-24.2C399.3,7.9,411.6,7.5,421.9,6.5z"/>
+</svg>		</div>
+					<div class="elementor-container elementor-column-gap-default">
+				<div class="elementor-row">
+				<div class="elementor-element elementor-element-05b5ab0 elementor-column elementor-col-33 elementor-top-column" data-id="05b5ab0" data-element_type="column">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div class="elementor-element elementor-element-83a0607 elementor-nav-menu__align-left elementor-nav-menu--indicator-none elementor-nav-menu--dropdown-none elementor-widget elementor-widget-nav-menu" data-id="83a0607" data-element_type="widget" data-settings="{&quot;layout&quot;:&quot;vertical&quot;}" data-widget_type="nav-menu.default">
+				<div class="elementor-widget-container">
+						<nav role="navigation" class="elementor-nav-menu--main elementor-nav-menu__container elementor-nav-menu--layout-vertical e--pointer-none"><ul id="menu-1-83a0607" class="elementor-nav-menu sm-vertical"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-11"><a href="https://www.entre-head.com/" class="elementor-item">Accueil</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-26"><a href="https://www.entre-head.com/a-propos/" class="elementor-item">À propos</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-861"><a href="https://www.entre-head.com/actualites/" class="elementor-item">Actualités</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-677"><a href="https://www.entre-head.com/jai-besoin-daide/" class="elementor-item">J&rsquo;ai besoin d&rsquo;aide</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-24"><a href="https://www.entre-head.com/je-veux-aider/" class="elementor-item">Je veux aider</a></li>
+<li class="menu-item menu-item-type-post_type_archive menu-item-object-temoignages menu-item-431"><a href="https://www.entre-head.com/temoignages/" class="elementor-item">Témoignages</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-22"><a href="https://www.entre-head.com/contact/" class="elementor-item">Contact</a></li>
+</ul></nav>
+					<div class="elementor-menu-toggle" role="button" tabindex="0" aria-label="Menu Toggle" aria-expanded="false">
+			<i class="eicon-menu-bar" aria-hidden="true"></i>
+			<span class="elementor-screen-only">Menu</span>
+		</div>
+			<nav class="elementor-nav-menu--dropdown elementor-nav-menu__container" role="navigation" aria-hidden="true"><ul id="menu-2-83a0607" class="elementor-nav-menu sm-vertical"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-11"><a href="https://www.entre-head.com/" class="elementor-item">Accueil</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-26"><a href="https://www.entre-head.com/a-propos/" class="elementor-item">À propos</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-861"><a href="https://www.entre-head.com/actualites/" class="elementor-item">Actualités</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-677"><a href="https://www.entre-head.com/jai-besoin-daide/" class="elementor-item">J&rsquo;ai besoin d&rsquo;aide</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-24"><a href="https://www.entre-head.com/je-veux-aider/" class="elementor-item">Je veux aider</a></li>
+<li class="menu-item menu-item-type-post_type_archive menu-item-object-temoignages menu-item-431"><a href="https://www.entre-head.com/temoignages/" class="elementor-item">Témoignages</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-22"><a href="https://www.entre-head.com/contact/" class="elementor-item">Contact</a></li>
+</ul></nav>
+				</div>
+				</div>
+						</div>
+			</div>
+		</div>
+				<div class="elementor-element elementor-element-ec5a85c elementor-column elementor-col-33 elementor-top-column" data-id="ec5a85c" data-element_type="column">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div class="elementor-element elementor-element-aa66ca9 elementor-widget elementor-widget-image" data-id="aa66ca9" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-image">
+										<img src="https://www.entre-head.com/wp-content/uploads/2020/04/Logo-ENTRE-HEAD-whitecenter.svg" class="attachment-full size-full" alt="" />											</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-a7ff913 elementor-widget elementor-widget-heading" data-id="a7ff913" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<div class="elementor-heading-title elementor-size-default">les chefs d’entreprise<br/> aident les chefs d’entreprise</div>		</div>
+				</div>
+				<div class="elementor-element elementor-element-d9927d0 elementor-widget elementor-widget-heading" data-id="d9927d0" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<div class="elementor-heading-title elementor-size-default">association loi 1901 <br>N° RNA W062016418 - N° SIREN 883961641</div>		</div>
+				</div>
+						</div>
+			</div>
+		</div>
+				<div class="elementor-element elementor-element-14de3aa elementor-column elementor-col-33 elementor-top-column" data-id="14de3aa" data-element_type="column">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div class="elementor-element elementor-element-3155d89 elementor-nav-menu__align-right elementor-nav-menu--indicator-none elementor-nav-menu--dropdown-none elementor-widget elementor-widget-nav-menu" data-id="3155d89" data-element_type="widget" data-settings="{&quot;layout&quot;:&quot;vertical&quot;}" data-widget_type="nav-menu.default">
+				<div class="elementor-widget-container">
+						<nav role="navigation" class="elementor-nav-menu--main elementor-nav-menu__container elementor-nav-menu--layout-vertical e--pointer-none"><ul id="menu-1-3155d89" class="elementor-nav-menu sm-vertical"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-37"><a href="https://www.entre-head.com/plan-du-site/" class="elementor-item">Plan du site</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-privacy-policy menu-item-36"><a href="https://www.entre-head.com/mentions-legales/" class="elementor-item">Mentions légales</a></li>
+</ul></nav>
+					<div class="elementor-menu-toggle" role="button" tabindex="0" aria-label="Menu Toggle" aria-expanded="false">
+			<i class="eicon-menu-bar" aria-hidden="true"></i>
+			<span class="elementor-screen-only">Menu</span>
+		</div>
+			<nav class="elementor-nav-menu--dropdown elementor-nav-menu__container" role="navigation" aria-hidden="true"><ul id="menu-2-3155d89" class="elementor-nav-menu sm-vertical"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-37"><a href="https://www.entre-head.com/plan-du-site/" class="elementor-item">Plan du site</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-privacy-policy menu-item-36"><a href="https://www.entre-head.com/mentions-legales/" class="elementor-item">Mentions légales</a></li>
+</ul></nav>
+				</div>
+				</div>
+				<section class="elementor-element elementor-element-d642508 elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-inner-section" data-id="d642508" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+				<div class="elementor-row">
+				<div class="elementor-element elementor-element-6fc8105 elementor-column elementor-col-100 elementor-inner-column" data-id="6fc8105" data-element_type="column">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div class="elementor-element elementor-element-d9e61db elementor-widget__width-initial elementor-widget elementor-widget-heading" data-id="d9e61db" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<div class="elementor-heading-title elementor-size-default">Suivez-nous :</div>		</div>
+				</div>
+				<div class="elementor-element elementor-element-78c2955 elementor-shape-circle elementor-widget__width-auto elementor-widget elementor-widget-social-icons" data-id="78c2955" data-element_type="widget" data-widget_type="social-icons.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-social-icons-wrapper">
+							<a class="elementor-icon elementor-social-icon elementor-social-icon-linkedin-in elementor-repeater-item-ffda2b5" href="https://www.linkedin.com/company/association-entre-head" target="_blank">
+					<span class="elementor-screen-only">Linkedin-in</span>
+					<i class="fab fa-linkedin-in"></i>				</a>
+							<a class="elementor-icon elementor-social-icon elementor-social-icon-instagram elementor-repeater-item-a5ac476" href="https://www.instagram.com/entrehead/" target="_blank">
+					<span class="elementor-screen-only">Instagram</span>
+					<i class="fab fa-instagram"></i>				</a>
+					</div>
+				</div>
+				</div>
+						</div>
+			</div>
+		</div>
+						</div>
+			</div>
+		</section>
+						</div>
+			</div>
+		</div>
+						</div>
+			</div>
+		</section>
+					</div>
+		</div>
+		</div>
+		
+		<div data-elementor-type="popup" data-elementor-id="42" class="elementor elementor-42 elementor-location-popup" data-elementor-settings="{&quot;entrance_animation&quot;:&quot;fadeIn&quot;,&quot;exit_animation&quot;:&quot;fadeIn&quot;,&quot;entrance_animation_duration&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:1.2,&quot;sizes&quot;:[]},&quot;triggers&quot;:[],&quot;timing&quot;:[]}">
+		<div class="elementor-inner">
+			<div class="elementor-section-wrap">
+						<section class="elementor-element elementor-element-182d9c5 elementor-section-content-middle elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-top-section" data-id="182d9c5" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+				<div class="elementor-row">
+				<div class="elementor-element elementor-element-6715fd0 elementor-column elementor-col-100 elementor-top-column" data-id="6715fd0" data-element_type="column">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div class="elementor-element elementor-element-47046b2 elementor-nav-menu__align-center elementor-nav-menu--indicator-none elementor-nav-menu--dropdown-none elementor-widget elementor-widget-nav-menu" data-id="47046b2" data-element_type="widget" data-settings="{&quot;layout&quot;:&quot;vertical&quot;}" data-widget_type="nav-menu.default">
+				<div class="elementor-widget-container">
+						<nav role="navigation" class="elementor-nav-menu--main elementor-nav-menu__container elementor-nav-menu--layout-vertical e--pointer-none"><ul id="menu-1-47046b2" class="elementor-nav-menu sm-vertical"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-11"><a href="https://www.entre-head.com/" class="elementor-item">Accueil</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-26"><a href="https://www.entre-head.com/a-propos/" class="elementor-item">À propos</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-861"><a href="https://www.entre-head.com/actualites/" class="elementor-item">Actualités</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-677"><a href="https://www.entre-head.com/jai-besoin-daide/" class="elementor-item">J&rsquo;ai besoin d&rsquo;aide</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-24"><a href="https://www.entre-head.com/je-veux-aider/" class="elementor-item">Je veux aider</a></li>
+<li class="menu-item menu-item-type-post_type_archive menu-item-object-temoignages menu-item-431"><a href="https://www.entre-head.com/temoignages/" class="elementor-item">Témoignages</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-22"><a href="https://www.entre-head.com/contact/" class="elementor-item">Contact</a></li>
+</ul></nav>
+					<div class="elementor-menu-toggle" role="button" tabindex="0" aria-label="Menu Toggle" aria-expanded="false">
+			<i class="eicon-menu-bar" aria-hidden="true"></i>
+			<span class="elementor-screen-only">Menu</span>
+		</div>
+			<nav class="elementor-nav-menu--dropdown elementor-nav-menu__container" role="navigation" aria-hidden="true"><ul id="menu-2-47046b2" class="elementor-nav-menu sm-vertical"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-11"><a href="https://www.entre-head.com/" class="elementor-item">Accueil</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-26"><a href="https://www.entre-head.com/a-propos/" class="elementor-item">À propos</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-861"><a href="https://www.entre-head.com/actualites/" class="elementor-item">Actualités</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-677"><a href="https://www.entre-head.com/jai-besoin-daide/" class="elementor-item">J&rsquo;ai besoin d&rsquo;aide</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-24"><a href="https://www.entre-head.com/je-veux-aider/" class="elementor-item">Je veux aider</a></li>
+<li class="menu-item menu-item-type-post_type_archive menu-item-object-temoignages menu-item-431"><a href="https://www.entre-head.com/temoignages/" class="elementor-item">Témoignages</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-22"><a href="https://www.entre-head.com/contact/" class="elementor-item">Contact</a></li>
+</ul></nav>
+				</div>
+				</div>
+						</div>
+			</div>
+		</div>
+						</div>
+			</div>
+		</section>
+					</div>
+		</div>
+		</div>
+		<script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script type='text/javascript' src='https://www.entre-head.com/wp-includes/js/wp-embed.min.js?ver=5.4'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var papro_addons = {"url":"https:\/\/www.entre-head.com\/wp-admin\/admin-ajax.php","particles_url":"https:\/\/www.entre-head.com\/wp-content\/plugins\/premium-addons-pro\/assets\/frontend\/min-js\/particles.min.js","kenburns_url":"https:\/\/www.entre-head.com\/wp-content\/plugins\/premium-addons-pro\/assets\/frontend\/min-js\/cycle.min.js","gradient_url":"https:\/\/www.entre-head.com\/wp-content\/plugins\/premium-addons-pro\/assets\/frontend\/min-js\/premium-gradient.min.js","parallax_url":"https:\/\/www.entre-head.com\/wp-content\/plugins\/premium-addons-pro\/assets\/frontend\/min-js\/premium-parallax.min.js"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.entre-head.com/wp-includes/js/jquery/jquery.js?ver=1.12.4-wp'></script>
+<script type='text/javascript' src='https://www.entre-head.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+<script type='text/javascript'>
+window.scopes_array = [];
+			window.backend = 0;
+		    jQuery( window ).on( "elementor/frontend/init", function() {
+				elementorFrontend.hooks.addAction( "frontend/element_ready/section", function( $scope, $ ){
+					if ( "undefined" == typeof $scope ) {
+							return;
+					}
+					if ( $scope.hasClass( "premium-particles-yes" ) ) {
+						window.scopes_array.push( $scope );
+					}
+					if(elementorFrontend.isEditMode()){		
+						var url = papro_addons.particles_url;
+						jQuery.cachedAssets = function( url, options ) {
+							// Allow user to set any option except for dataType, cache, and url.
+							options = jQuery.extend( options || {}, {
+								dataType: "script",
+								cache: true,
+								url: url
+							});
+							// Return the jqXHR object so we can chain callbacks.
+							return jQuery.ajax( options );
+						};
+						jQuery.cachedAssets( url );
+						window.backend = 1;
+					}
+				});
+			});
+			jQuery(document).ready(function(){
+				if ( jQuery.find( ".premium-particles-yes" ).length < 1 ) {
+                
+					return;
+				}
+				var url = papro_addons.particles_url;
+                
+				jQuery.cachedAssets = function( url, options ) {
+					// Allow user to set any option except for dataType, cache, and url.
+					options = jQuery.extend( options || {}, {
+						dataType: "script",
+						cache: true,
+						url: url
+					});
+                    
+					// Return the jqXHR object so we can chain callbacks.
+					return jQuery.ajax( options );
+				};
+				jQuery.cachedAssets( url );
+			});	
+</script>
+<script type='text/javascript' src='https://www.entre-head.com/wp-content/plugins/elementor-pro/assets/lib/smartmenus/jquery.smartmenus.min.js?ver=1.0.1'></script>
+<script type='text/javascript' src='https://www.entre-head.com/wp-content/plugins/elementor/assets/js/frontend-modules.min.js?ver=2.9.9'></script>
+<script type='text/javascript' src='https://www.entre-head.com/wp-content/plugins/elementor-pro/assets/lib/sticky/jquery.sticky.min.js?ver=2.9.5'></script>
+<script type='text/javascript'>
+var ElementorProFrontendConfig = {"ajaxurl":"https:\/\/www.entre-head.com\/wp-admin\/admin-ajax.php","nonce":"bf2a08c43b","i18n":{"toc_no_headings_found":"No headings were found on this page."},"shareButtonsNetworks":{"facebook":{"title":"Facebook","has_counter":true},"twitter":{"title":"Twitter"},"google":{"title":"Google+","has_counter":true},"linkedin":{"title":"LinkedIn","has_counter":true},"pinterest":{"title":"Pinterest","has_counter":true},"reddit":{"title":"Reddit","has_counter":true},"vk":{"title":"VK","has_counter":true},"odnoklassniki":{"title":"OK","has_counter":true},"tumblr":{"title":"Tumblr"},"delicious":{"title":"Delicious"},"digg":{"title":"Digg"},"skype":{"title":"Skype"},"stumbleupon":{"title":"StumbleUpon","has_counter":true},"mix":{"title":"Mix"},"telegram":{"title":"Telegram"},"pocket":{"title":"Pocket","has_counter":true},"xing":{"title":"XING","has_counter":true},"whatsapp":{"title":"WhatsApp"},"email":{"title":"Email"},"print":{"title":"Print"}},"facebook_sdk":{"lang":"fr_FR","app_id":""}};
+</script>
+<script type='text/javascript' src='https://www.entre-head.com/wp-content/plugins/elementor-pro/assets/js/frontend.min.js?ver=2.9.5'></script>
+<script type='text/javascript' src='https://www.entre-head.com/wp-includes/js/jquery/ui/core.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='https://www.entre-head.com/wp-includes/js/jquery/ui/widget.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='https://www.entre-head.com/wp-includes/js/jquery/ui/mouse.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='https://www.entre-head.com/wp-includes/js/jquery/ui/slider.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='https://www.entre-head.com/wp-includes/js/jquery/ui/datepicker.min.js?ver=1.11.4'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var JetSmartFilterSettings = {"ajaxurl":"https:\/\/www.entre-head.com\/wp-admin\/admin-ajax.php","selectors":{"epro-archive-products":{"selector":".elementor-widget-wc-archive-products .elementor-widget-container","action":"replace","inDepth":false,"idPrefix":"#"},"epro-archive":{"selector":".elementor-widget-archive-posts .elementor-widget-container","action":"replace","inDepth":false,"idPrefix":"#"},"epro-portfolio":{"selector":".elementor-widget-portfolio","action":"insert","inDepth":false,"idPrefix":"#"},"epro-posts":{"selector":".elementor-widget-posts .elementor-widget-container","action":"replace","inDepth":false,"idPrefix":"#"},"epro-products":{"selector":".elementor-widget-woocommerce-products .elementor-widget-container","action":"replace","inDepth":false,"idPrefix":"#"},"jet-engine-calendar":{"selector":".elementor-widget-jet-listing-calendar > .elementor-widget-container","action":"insert","inDepth":false,"idPrefix":"#"},"jet-engine":{"selector":".elementor-widget-jet-listing-grid > .elementor-widget-container","action":"insert","inDepth":false,"idPrefix":"#"},"jet-woo-products-grid":{"selector":".elementor-jet-woo-products.jet-woo-builder","action":"insert","inDepth":true,"idPrefix":"#"},"jet-woo-products-list":{"selector":".elementor-jet-woo-products-list.jet-woo-builder","action":"insert","inDepth":true,"idPrefix":"#"},"woocommerce-archive":{"selector":".elementor-jet-woo-builder-products-loop","action":"insert","inDepth":false,"idPrefix":"#"},"woocommerce-shortcode":{"selector":"body .woocommerce[class*=\"columns\"]","action":"replace","inDepth":false,"idPrefix":"."}},"queries":[],"settings":[],"filters":[],"misc":{"week_start":"1"},"datePickerData":{"closeText":"Done","prevText":"Prev","nextText":"Next","currentText":"Today","monthNames":["January","February","March","April","May","June","July","August","September","October","November","December"],"monthNamesShort":["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"dayNames":["Sunday","Monday","Tuesday","Wednesday","Thursday","Friday","Saturday"],"dayNamesShort":["Sun","Mon","Tue","Wed","Thu","Fri","Sat"],"dayNamesMin":["Su","Mo","Tu","We","Th","Fr","Sa"],"weekHeader":"Wk"}};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.entre-head.com/wp-content/plugins/jet-smart-filters/assets/js/public.js?ver=1.7.2'></script>
+<script type='text/javascript' src='https://www.entre-head.com/wp-includes/js/jquery/ui/position.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='https://www.entre-head.com/wp-content/plugins/elementor/assets/lib/dialog/dialog.min.js?ver=4.7.6'></script>
+<script type='text/javascript' src='https://www.entre-head.com/wp-content/plugins/elementor/assets/lib/waypoints/waypoints.min.js?ver=4.0.2'></script>
+<script type='text/javascript' src='https://www.entre-head.com/wp-content/plugins/elementor/assets/lib/swiper/swiper.min.js?ver=5.3.6'></script>
+<script type='text/javascript' src='https://www.entre-head.com/wp-content/plugins/elementor/assets/lib/share-link/share-link.min.js?ver=2.9.9'></script>
+<script type='text/javascript'>
+var elementorFrontendConfig = {"environmentMode":{"edit":false,"wpPreview":false},"i18n":{"shareOnFacebook":"Share on Facebook","shareOnTwitter":"Share on Twitter","pinIt":"Pin it","downloadImage":"Download image"},"is_rtl":false,"breakpoints":{"xs":0,"sm":480,"md":768,"lg":1025,"xl":1440,"xxl":1600},"version":"2.9.9","urls":{"assets":"https:\/\/www.entre-head.com\/wp-content\/plugins\/elementor\/assets\/"},"settings":{"general":{"elementor_global_image_lightbox":"yes","elementor_lightbox_enable_counter":"yes","elementor_lightbox_enable_fullscreen":"yes","elementor_lightbox_enable_zoom":"yes","elementor_lightbox_enable_share":"yes","elementor_lightbox_title_src":"title","elementor_lightbox_description_src":"description"},"editorPreferences":[]},"post":{"id":0,"title":"Page non trouv\u00e9e &#8211; Entre Head","excerpt":""}};
+</script>
+<script type='text/javascript' src='https://www.entre-head.com/wp-content/plugins/elementor/assets/js/frontend.min.js?ver=2.9.9'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var JetEngineSettings = {"ajaxurl":"https:\/\/www.entre-head.com\/wp-admin\/admin-ajax.php"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.entre-head.com/wp-content/plugins/jet-engine/assets/js/frontend.js?ver=2.0.0'></script>
+
+</body>
+</html>

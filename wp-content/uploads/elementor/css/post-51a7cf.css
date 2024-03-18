@@ -1,0 +1,67 @@
+.elementor-51 .elementor-element.elementor-element-76c66656 > .elementor-container{min-height:130px;}.elementor-51 .elementor-element.elementor-element-76c66656 > .elementor-container:after{content:"";min-height:inherit;}.elementor-51 .elementor-element.elementor-element-76c66656 > .elementor-container > .elementor-row > .elementor-column > .elementor-column-wrap > .elementor-widget-wrap{align-content:center;align-items:center;}.elementor-51 .elementor-element.elementor-element-76c66656{padding:0px 30px 0px 30px;}.elementor-51 .elementor-element.elementor-element-41d5efbf > .elementor-column-wrap > .elementor-widget-wrap > .elementor-widget:not(.elementor-widget__width-auto):not(.elementor-widget__width-initial):not(:last-child):not(.elementor-absolute){margin-bottom:0px;}.elementor-51 .elementor-element.elementor-element-20b5fab{text-align:left;}.elementor-51 .elementor-element.elementor-element-20b5fab .elementor-image img{width:320px;}.elementor-51 .elementor-element.elementor-element-10d274da{text-align:left;}.elementor-51 .elementor-element.elementor-element-79e7044d.elementor-column > .elementor-column-wrap > .elementor-widget-wrap{justify-content:flex-end;}.elementor-51 .elementor-element.elementor-element-d7fb8c2{text-align:right;width:auto;max-width:auto;align-self:center;}.elementor-51 .elementor-element.elementor-element-2eeca4d4{text-align:right;width:auto;max-width:auto;align-self:center;}@media(max-width:767px){.elementor-51 .elementor-element.elementor-element-41d5efbf{width:70%;}.elementor-51 .elementor-element.elementor-element-79e7044d{width:30%;}}/* Start custom CSS for image, class: .elementor-element-20b5fab *//*.elementor-51 .elementor-element.elementor-element-20b5fab img{
+    width: 250px;
+}
+@media (max-width: 580px){
+   .elementor-51 .elementor-element.elementor-element-20b5fab .elementor-image a img{
+    width: 200px;
+} 
+}*//* End custom CSS */
+/* Start custom CSS for image, class: .elementor-element-10d274da */.elementor-51 .elementor-element.elementor-element-10d274da{
+    position: absolute;
+}
+.elementor-51 .elementor-element.elementor-element-10d274da .elementor-image a img{
+    width: 320px;
+}
+/*@media (max-width: 580px){
+   .elementor-51 .elementor-element.elementor-element-10d274da .elementor-image a img{
+    width: 200px;
+} 
+}*//* End custom CSS */
+/* Start custom CSS for image, class: .elementor-element-d7fb8c2 */.elementor-51 .elementor-element.elementor-element-d7fb8c2 .elementor-image a img{
+    width: 35px;
+}
+@media (max-width: 580px){
+   .elementor-51 .elementor-element.elementor-element-d7fb8c2 .elementor-image a img{
+    width: 35px;
+} 
+}/* End custom CSS */
+/* Start custom CSS for image, class: .elementor-element-2eeca4d4 */.elementor-51 .elementor-element.elementor-element-2eeca4d4{
+    position: absolute;
+}
+.elementor-51 .elementor-element.elementor-element-2eeca4d4 .elementor-image a img{
+    width: 35px;
+}
+@media (max-width: 580px){
+   .elementor-51 .elementor-element.elementor-element-2eeca4d4 .elementor-image a img{
+    width: 35px;
+} 
+}/* End custom CSS */
+/* Start custom CSS for section, class: .elementor-element-76c66656 */.elementor-51 .elementor-element.elementor-element-76c66656.elementor-sticky--effects
+{ background-color: rgba(255,255,255,1);
+box-shadow: 0 4px 8px 0 rgba(0,0,0,0.1);}
+
+.elementor-51 .elementor-element.elementor-element-76c66656{ 
+    margin-bottom: -170px;
+    transition: background-color 0.5s ease ; }
+
+.elementor-51 .elementor-element.elementor-element-76c66656 .img-color{
+    opacity: 0;
+    transition: all 0.5s ease-in-out;
+}
+.elementor-51 .elementor-element.elementor-element-76c66656 .img-white{
+    opacity: 1;
+    transition: all 0.5s ease-in-out;
+}
+.elementor-51 .elementor-element.elementor-element-76c66656.elementor-sticky--effects .img-color{
+    opacity: 1;
+}
+.elementor-51 .elementor-element.elementor-element-76c66656.elementor-sticky--effects .img-white{
+    opacity: 0;
+}
+.elementor-51 .elementor-element.elementor-element-76c66656.elementor-sticky--effects .num-tel .elementor-heading-title{
+    color: #333333!important;
+}
+
+@media screen and (max-width:767px){
+    .elementor-51 .elementor-element.elementor-element-76c66656{background-color:white;}
+}/* End custom CSS */

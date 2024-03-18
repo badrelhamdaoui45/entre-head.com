@@ -1,0 +1,24 @@
+/*!
+Theme Name: entrehead
+Author: Pix Associates
+Author URI: https://www.pix-associates.com/
+Version: 1
+Text Domain: areco
+
+This theme, like WordPress, is licensed under the GPL.
+Use it to make something cool, have fun, and share what you've learned with others.
+*/
+
+html,body{ margin: 0; padding: 0; overflow-x: hidden}
+
+.frm_pro_form {
+    display: flex;
+    flex-wrap: wrap;}
+
+.frm_pro_form > * {width: 100%;}
+
+.frm_pro_form .frm_form_fields {order: 1;}
+
+.frm_pro_form .frm_error_style {order: 2;}
+
+.frm_pro_form .frm_message {order: 2;}
